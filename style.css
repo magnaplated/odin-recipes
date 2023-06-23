@@ -1,0 +1,49 @@
+h1 {
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 72px;
+    color:dodgerblue;
+    font-weight: bold;
+}
+
+.caption {
+    font-size:28px;
+    font-weight:800;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+
+#chicken-soup-header {
+    color:gold;
+    font-family:'Times New Roman', Times, serif;
+}
+
+#steak-header {
+    color:brown
+}
+
+#french-fries-header {
+    color:darkgoldenrod;
+}
+
+.steak {
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:brown;
+}
+
+.chicken-soup {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:darkkhaki;
+}
+
+.french-fries {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:darkgoldenrod;
+}
+
+.description {
+    font-style: italic;
+    color:black
+}
+
+img {
+    image-orientation:flip;
+}
